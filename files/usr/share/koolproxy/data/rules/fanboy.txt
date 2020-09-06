@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: S2eBofimZs8zT/iNMe9Aag
-! Version: 202009032351
+! Checksum: XWhdDjgRvdRVlETOsHBIHQ
+! Version: 202009050051
 ! Title: Fanboy's Annoyance List
-! Last modified: 03 Sep 2020 23:51 UTC
+! Last modified: 05 Sep 2020 00:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10210,7 +10210,7 @@ https://hwupgrade.it##.form-offerte
 https://my-personaltrainer.it##.frecciabg
 https://euractiv.it##.gform_widget
 https://corriere.it##.glightbox-container
-https://monovolume.cc##.go-up
+https://monovolume.cc,newsfood.com##.go-up
 https://comune.milano.it,meetingrimini.org,radionorba.it##.gotop
 https://mondovolantino.it##.goup
 https://radioplayeritalia.it##.grve-arrow-wrapper
@@ -10254,6 +10254,7 @@ https://lasicilia.it##.sali
 https://tempoitalia.it##.scroll
 https://simplymarket.it##.scroll-top-footer
 https://lampade.it##.scrollBack
+https://escort-advisor.com##.scroll_right
 https://assologico.it##.scrollbutton
 https://ilsole24ore.com##.scta
 https://biografieonline.it##.section-footer-nl
@@ -12896,7 +12897,7 @@ https://tvp.info#@#.social-article
 https://dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 https://funnyordie.com#@#.social-bar-container
 https://wat.tv#@#.social-block
-https://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,onovini.com,rta24.eu,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
+https://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,onovini.com,rta24.eu,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 https://bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 https://buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 https://chess.com#@#.social-btns
@@ -20740,7 +20741,7 @@ http://hwupgrade.it##.form-offerte
 http://my-personaltrainer.it##.frecciabg
 http://euractiv.it##.gform_widget
 http://corriere.it##.glightbox-container
-http://monovolume.cc##.go-up
+http://monovolume.cc,newsfood.com##.go-up
 http://comune.milano.it,meetingrimini.org,radionorba.it##.gotop
 http://mondovolantino.it##.goup
 http://radioplayeritalia.it##.grve-arrow-wrapper
@@ -20784,6 +20785,7 @@ http://lasicilia.it##.sali
 http://tempoitalia.it##.scroll
 http://simplymarket.it##.scroll-top-footer
 http://lampade.it##.scrollBack
+http://escort-advisor.com##.scroll_right
 http://assologico.it##.scrollbutton
 http://ilsole24ore.com##.scta
 http://biografieonline.it##.section-footer-nl
@@ -23427,7 +23429,7 @@ http://tvp.info#@#.social-article
 http://dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 http://funnyordie.com#@#.social-bar-container
 http://wat.tv#@#.social-block
-http://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,onovini.com,rta24.eu,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
+http://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,onovini.com,rta24.eu,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 http://bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 http://buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 http://chess.com#@#.social-btns
