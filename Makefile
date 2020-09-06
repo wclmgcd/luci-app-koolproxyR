@@ -1,8 +1,8 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-koolproxyR
-PKG_VERSION:=3.8.4
-PKG_RELEASE:=6-20200409
+PKG_VERSION:=3.8.5
+PKG_RELEASE:=1
 
 PKG_MAINTAINER:=panda-mute <wxuzju@gmail.com>
 PKG_LICENSE:=GPLv3
